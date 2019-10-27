@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'بخش اول: تست '
 description:
   'This chapter will teach you about many cool things and introduce you to the
   most important concepts of the course.'
@@ -59,3 +59,65 @@ This is a hint.
 </codeblock>
 
 </exercise>
+
+
+
+
+
+این یک تست بسیار جالب در خصوص هئگو است.  **`‫`** 
+
+من محمد هستم
+
+
+
+ **`‫`** 
+
+```
+Test عنوان یک
+```
+
+> 
+>
+> 
+>
+> 
+>
+> ‫Test عنوان یک
+
+
+
+<p dir = 'rtl'>
+
+
+​    
+​      **`‫`** من محمد هستم پر test این چرا نرف
+
+</p>
+
+</p>
+
+  **`‫`** من محمد هستم پر test این چرا نرف
+
+ </p>
+
+  <p dir="RTL">  من محمد هستم</p>   
+
+
+
+
+
+
+
+
+
+
+  <p dir="RTL">Najib said "السلام عليكم" (as-salaam alaykum] to me.</p>  
+
+```html
+<div style="text-align: right"> من محمد هست </div>
+```
+
+```HTML
+
+```
+
