@@ -17,6 +17,16 @@ export default ({ data }) => {
     return (
         <Layout isHome>
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
+
+            <section>
+                <h1 className={classes.subtitle}> یک دوره بی نظیر برای یادگیری علم داده ها با پایتون </h1>
+                <div className={classes.introduction}>
+                <p>
+                   در این دوره به صورت عملی به شما یاد خواهم داد که چطور از پانداس برای علم داده ها استفاده کنید.
+                </p>
+                </div>
+            </section>
+            
             {chapters.map(({ slug, title, description }) => (
                 <section key={slug} className={classes.chapter}>
                     <h2 className={classes.chapterTitle}>
