@@ -3,10 +3,10 @@
     "title": "قالب نمونه برای توسعه دوره های برنامه نویسی و علم داده ها",
     "slogan": "یک دوره رایگان برای یادگیری ابزارهای پایتون",
     "description": "این قالب برای توسعه دهندگانی که دوست دارند  دانش خود را با بقیه به اشتراک بگذارند به فارسی تهیه شده است",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
+    "bio": "من محمد چناریان نخعی  هستم",
     "siteUrl": "https://course-starter-python.netlify.com",
     "twitter": "spacy_io",
-    "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
+    "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i|Amiri",
     "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
     "juniper": {
         "repo": "ines/course-starter-python",
